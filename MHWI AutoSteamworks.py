@@ -72,7 +72,7 @@ def Stop_thread_T():
     global thread_T
     global start_time
     if thread_T.is_alive():
-        print('----持续时间：', datetime.datetime.now()-start_time, '----')
+        print('----持续时间:', datetime.datetime.now()-start_time, '----')
         print('----程序停止----')
         steamWorks.terminate()
         thread_T.join()
