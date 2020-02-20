@@ -1,0 +1,13 @@
+('d:\\anaconda\\lib\\site-packages\\pyhook3-1.6.1-py3.7-win-amd64.egg',
+ None,
+ {'*.pyc', '*.cp37-win_amd64.pyd', '*.pyw', 'EGG-INFO', '*.py', '*.pyd'},
+ 'DATA',
+ [('Lib\\site-packages\\PyHook3\\CHANGELOG.txt',
+   'd:\\anaconda\\lib\\site-packages\\pyhook3-1.6.1-py3.7-win-amd64.egg\\Lib\\site-packages\\PyHook3\\CHANGELOG.txt',
+   'DATA'),
+  ('Lib\\site-packages\\PyHook3\\LICENSE.rst',
+   'd:\\anaconda\\lib\\site-packages\\pyhook3-1.6.1-py3.7-win-amd64.egg\\Lib\\site-packages\\PyHook3\\LICENSE.rst',
+   'DATA'),
+  ('Lib\\site-packages\\PyHook3\\README.rst',
+   'd:\\anaconda\\lib\\site-packages\\pyhook3-1.6.1-py3.7-win-amd64.egg\\Lib\\site-packages\\PyHook3\\README.rst',
+   'DATA')])
